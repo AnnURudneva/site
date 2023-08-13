@@ -35,6 +35,8 @@ document.addEventListener("DOMContentLoaded", function(){
         document.querySelector('#anchor_menu_about_2').setAttribute("href", compute_attribute("about_2.html", is_index));
         document.querySelector('#anchor_menu_school_control_1').setAttribute("href", compute_attribute("school_control_1.html", is_index));
         document.querySelector('#anchor_menu_school_control_2').setAttribute("href", compute_attribute("school_control_2.html", is_index));
+        document.querySelector('#anchor_menu_school_control_3').setAttribute("href", compute_attribute("school_control_3.html", is_index));
+        document.querySelector('#anchor_menu_school_control_4').setAttribute("href", compute_attribute("school_control_4.html", is_index));
     }
 
     var index_menu = document.querySelector('#nav_index_page');

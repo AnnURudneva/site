@@ -25,13 +25,8 @@ document.write(`
               <ul class="dropdown-menu" aria-labelledby="myDropdown_school_control">
                   <li><a class="dropdown-item" id="anchor_menu_school_control_1" href="#">Нормативно-правова база</a></li>
                   <li><a class="dropdown-item" id="anchor_menu_school_control_2" href="#">Схема управління навчальним закладом</a></li>
-                  <li><a class="dropdown-item" id="anchor_menu_school_control_3" href="#">До нового 2022-2023 навчального року</a></li>
-                  <li><a class="dropdown-item" href="#">Документи школи &raquo;</a>
-                      <ul class="submenu dropdown-menu">
-                          <li><a class="dropdown-item" id="anchor_menu_school_control_4_1" href="#">Документи школи</a></li>
-                          <li><a class="dropdown-item" id="anchor_menu_school_control_4_2" href="#">Положення  про моніторинг якості освіти та освітньої діяльності</a></li>
-                      </ul>
-                  </li>
+                  <li><a class="dropdown-item" id="anchor_menu_school_control_3" href="#">До нового 2023-2024 навчального року</a></li>
+                  <li><a class="dropdown-item" id="anchor_menu_school_control_4" href="#">Документи закладу освіти</a></li>
                   <li><a class="dropdown-item" id="anchor_menu_school_control_5" href="#">Державно-громадське управління  СЗШ №13</a></li>
                   <li><a class="dropdown-item" id="anchor_menu_school_control_6" href="#">Батьківський комітет</a></li>
                   <li><a class="dropdown-item" id="anchor_menu_school_control_7" href="#">Матеріально-технічне забезпечення</a></li>
